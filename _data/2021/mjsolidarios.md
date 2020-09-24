@@ -5,4 +5,4 @@ about_me
 
 hugot_lines/other_stuffs
 
-> "Never accept the world as it appears to be, dare to see it for what it could be" - Dr. Harold Winston, Overwatch.
+> "Never accept the world as it appears thhho be, dare to see it for what it could be" - Dr. Harold Winston, Overwatch.
